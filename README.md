@@ -54,12 +54,16 @@ The project uses dimensionless units with $\hbar = 1$ and $\hbar^2/(2m)=1$.
 | Simulation | Animation |
 |---|---|
 | Gaussian packet in an infinite square well | `figures/gaussian_packet_infinite_well.gif` |
+![Gaussian packet in a harmonic potential](figures/gaussian_packet_harmonic.gif)
 | Two-packet interference | `figures/two_packet_interference.gif` |
 | Harmonic potential | `figures/gaussian_packet_harmonic.gif` |
 | Potential-barrier scattering | `figures/potential_barrier_scattering.gif` |
 | Josephson dynamics without interactions | `figures/josephson_no_interaction.gif` |
 | Josephson self-trapping | `figures/josephson_self_trapping.gif` |
 ![Gaussian packet in a harmonic potential](figures/gaussian_packet_harmonic.gif)
+![Two-packet interference](figures/two_packet_interference.gif)
+
+
 ## Notes and limitations
 
 This repository preserves the original undergraduate implementation and its numerical choices. In particular, RK4 is not exactly unitary, the finite spatial domain imposes hard-wall boundary conditions, and the model is one-dimensional. The notebook discusses discretization errors and the limitations of the simulations. 
