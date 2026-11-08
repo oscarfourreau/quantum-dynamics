@@ -54,7 +54,7 @@ The project uses dimensionless units with $\hbar = 1$ and $\hbar^2/(2m)=1$.
 | Simulation | Animation |
 |---|---|
 | Gaussian packet in an infinite square well | `figures/gaussian_packet_infinite_well.gif` |
-![Gaussian packet in a harmonic potential](figures/gaussian_packet_harmonic.gif)
+![Gaussian packet in an infinite square well](figures/gaussian_packet_infinite_well.gif)
 | Two-packet interference | `figures/two_packet_interference.gif` |
 ![Two-packet interference](figures/two_packet_interference.gif)
 | Harmonic potential | `figures/gaussian_packet_harmonic.gif` |
