@@ -10,30 +10,12 @@ A one-dimensional numerical study of quantum dynamics, from stationary states to
 - **Scattering:** reflection and transmission of a Gaussian packet at a potential barrier.
 - **Nonlinear dynamics:** Gross–Pitaevskii equation in a double-well potential and Josephson oscillations / macroscopic self-trapping.
 
-## Repository structure
-
-```text
-quantum-dynamics/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── notebooks/
-│   └── quantum_dynamics.ipynb
-└── figures/
-    ├── gaussian_packet_infinite_well.gif
-    ├── two_packet_interference.gif
-    ├── gaussian_packet_harmonic.gif
-    ├── potential_barrier_scattering.gif
-    ├── josephson_no_interaction.gif
-    └── josephson_self_trapping.gif
-```
-
 ## Getting started
 
 Python 3.10 or later is recommended. Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/quantum-dynamics.git
+git clone https://github.com/oscarfourreau/quantum-dynamics.git
 cd quantum-dynamics
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
