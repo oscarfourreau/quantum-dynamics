@@ -1,6 +1,6 @@
 # Quantum Dynamics — Numerical Simulations
 
-A one-dimensional numerical study of quantum dynamics, from stationary states to wave-packet propagation and nonlinear Josephson dynamics. This project was developed as an undergraduate (Licence 3) numerical-physics project at Sorbonne Université.
+A one-dimensional numerical study of quantum dynamics, from stationary states to wave-packet propagation and nonlinear Josephson dynamics. This project was developed as an undergraduate (Licence 3) numerical-physics project at Sorbonne Université. **AI was used to create this github repository and to translate the notebook from french to english (note that all the functions name and figures legend are still in french)**
 
 ## Topics covered
 
@@ -63,7 +63,7 @@ The project uses dimensionless units with $\hbar = 1$ and $\hbar^2/(2m)=1$.
 
 ## Notes and limitations
 
-This repository preserves the original undergraduate implementation and its numerical choices. In particular, RK4 is not exactly unitary, the finite spatial domain imposes hard-wall boundary conditions, and the model is one-dimensional. The notebook discusses discretization errors and the limitations of the simulations. **AI was used to create this github repository and to translate the notebook from french to english (note that all the functions name and figures legend are still in french)**
+This repository preserves the original undergraduate implementation and its numerical choices. In particular, RK4 is not exactly unitary, the finite spatial domain imposes hard-wall boundary conditions, and the model is one-dimensional. The notebook discusses discretization errors and the limitations of the simulations. 
 
 **Reproducibility note:** the notebook contains saved static plots from the original run. Interactive HTML animation outputs have been removed to keep the notebook lightweight; the corresponding animations are provided separately in `figures/`.
 
