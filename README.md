@@ -1,7 +1,6 @@
 # Quantum Dynamics — Numerical Simulations
 
-A one-dimensional numerical study of quantum dynamics, from stationary states to wave-packet propagation and nonlinear Josephson dynamics. This project was developed as an undergraduate (Licence 3) numerical-physics project at Sorbonne Université. **AI was used to create this github repository and to translate the notebook from french to english (note that all the functions name and figures legend are still in french)**
-
+A one-dimensional numerical study of quantum dynamics, from stationary states to wave-packet propagation and nonlinear Josephson dynamics. This project was developed as an undergraduate (Licence 3) numerical-physics project at Sorbonne Université. **AI was used to create this github repository and to translate the notebook from french to english (note that all the functions name and figures legend in the notebook are still in french)**
 ## Topics covered
 
 - **Stationary Schrödinger equation:** finite-difference discretization and tridiagonal Hamiltonian diagonalization.
