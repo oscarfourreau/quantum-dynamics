@@ -63,14 +63,11 @@ The project uses dimensionless units with $\hbar = 1$ and $\hbar^2/(2m)=1$.
 
 ## Notes and limitations
 
-This repository preserves the original undergraduate implementation and its numerical choices. In particular, RK4 is not exactly unitary, the finite spatial domain imposes hard-wall boundary conditions, and the model is one-dimensional. The notebook discusses discretization errors and the limitations of the simulations.
+This repository preserves the original undergraduate implementation and its numerical choices. In particular, RK4 is not exactly unitary, the finite spatial domain imposes hard-wall boundary conditions, and the model is one-dimensional. The notebook discusses discretization errors and the limitations of the simulations. **AI was used to create this github repository and to translate the notebook from french to english (note that all the functions name and figures legend are still in french)**
 
 **Reproducibility note:** the notebook contains saved static plots from the original run. Interactive HTML animation outputs have been removed to keep the notebook lightweight; the corresponding animations are provided separately in `figures/`.
 
-## Reference
-
-M. Albiez *et al.*, “Direct Observation of Tunneling and Nonlinear Self-Trapping in a Single Bosonic Josephson Junction,” *Physical Review Letters* **95**, 010402 (2005).
 
 ## Author
 
-Oscar Fourreau — Licence 3 Physics / M1 Fundamental Physics, Sorbonne Université.
+Oscar Fourreau — M1 Fundamental Physics Student at Sorbonne Université.
